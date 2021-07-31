@@ -12,6 +12,7 @@
 			$this->senha = $senha;
 		}
 		
+		
 		public function getNome(){
 			return $this->nome;
 		}
